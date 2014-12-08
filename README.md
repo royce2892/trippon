@@ -10,6 +10,8 @@ Screenshots of the Trippon app developed for THack Bangalore 2014
 ![Date](https://github.com/royce2892/trippon/blob/master/Screenshot_2014-12-07-08-42-41.png)
 ![Flights Result](https://github.com/royce2892/trippon/blob/master/Screenshot_2014-12-07-08-43-56.png)
 ![Flight](https://github.com/royce2892/trippon/blob/master/Screenshot_2014-12-07-08-44-07.png)
+![Local Phrases](https://github.com/royce2892/trippon/blob/master/Screenshot_2014-12-07-08-46-56.png)
+![Result](https://github.com/royce2892/trippon/blob/master/Screenshot_2014-12-07-08-48-28.png)
 ![Hotels](https://github.com/royce2892/trippon/blob/master/Screenshot_2014-12-07-08-46-02.png)
 ![Emergency Contacts](https://github.com/royce2892/trippon/blob/master/Screenshot_2014-12-07-08-46-51.png)
 ![Safe](https://github.com/royce2892/trippon/blob/master/Screenshot_2014-12-07-09-06-36.png)
