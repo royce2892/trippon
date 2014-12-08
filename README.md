@@ -3,7 +3,6 @@ Trippon
 
 Screenshots of the Trippon app developed for THack Bangalore 2014
 
-![Splash](https://github.com/royce2892/trippon/blob/master/Screenshot_2014-12-07-12-43-41.png)
 ![Register Page](https://github.com/royce2892/trippon/blob/master/Screenshot_2014-12-07-08-40-53.png)
 ![Explore Page](https://github.com/royce2892/trippon/blob/master/Screenshot_2014-12-07-08-41-01.png)
 ![Cities Page](https://github.com/royce2892/trippon/blob/master/Screenshot_2014-12-07-08-42-24.png)
